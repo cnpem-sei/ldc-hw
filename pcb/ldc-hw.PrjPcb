@@ -192,103 +192,194 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=4C6125D3-D1A7-405E-A2C3-66AED9CADBA6
+Description=pcb-ldc-hw-1t
+AllowFabrication=1
+ParameterCount=0
+VariationCount=53
+Variation1=Designator=PB202|UniqueId=\JLXMPVSX|Kind=1|AlternatePart= 
+Variation2=Designator=LD102|UniqueId=\TTOSDYFO|Kind=1|AlternatePart= 
+Variation3=Designator=R102|UniqueId=\NLFBMNDE|Kind=1|AlternatePart= 
+Variation4=Designator=TP106|UniqueId=\GSKSBQQF|Kind=1|AlternatePart= 
+Variation5=Designator=TP105|UniqueId=\IORXIBFI|Kind=1|AlternatePart= 
+Variation6=Designator=TP104|UniqueId=\EWNRKQZW|Kind=1|AlternatePart= 
+Variation7=Designator=TP204|UniqueId=\FHXNJWKL|Kind=1|AlternatePart= 
+Variation8=Designator=TP205|UniqueId=\VUUZMJRJ|Kind=1|AlternatePart= 
+Variation9=Designator=TP206|UniqueId=\QCAWKLUO|Kind=1|AlternatePart= 
+Variation10=Designator=U103|UniqueId=\DDTHZHTU|Kind=1|AlternatePart= 
+Variation11=Designator=U104|UniqueId=\HIWSNOBG|Kind=1|AlternatePart= 
+Variation12=Designator=FB104|UniqueId=\WRZKGZMU|Kind=1|AlternatePart= 
+Variation13=Designator=FB105|UniqueId=\LSRUXYID|Kind=1|AlternatePart= 
+Variation14=Designator=C111|UniqueId=\PKIRNLUX|Kind=1|AlternatePart= 
+Variation15=Designator=C112|UniqueId=\NZSVVDED|Kind=1|AlternatePart= 
+Variation16=Designator=C113|UniqueId=\YOYCKJNT|Kind=1|AlternatePart= 
+Variation17=Designator=C114|UniqueId=\BPCFHPHA|Kind=1|AlternatePart= 
+Variation18=Designator=C115|UniqueId=\TZYFRDIE|Kind=1|AlternatePart= 
+Variation19=Designator=C116|UniqueId=\JHAUYOCA|Kind=1|AlternatePart= 
+Variation20=Designator=C117|UniqueId=\QJRXPVOI|Kind=1|AlternatePart= 
+Variation21=Designator=C118|UniqueId=\BSFFEGSL|Kind=1|AlternatePart= 
+Variation22=Designator=C119|UniqueId=\TEATZNFH|Kind=1|AlternatePart= 
+Variation23=Designator=C120|UniqueId=\OPGKZIFC|Kind=1|AlternatePart= 
+Variation24=Designator=FB106|UniqueId=\AXRXUGGY|Kind=1|AlternatePart= 
+Variation25=Designator=C207|UniqueId=\IXZDUNVY|Kind=1|AlternatePart= 
+Variation26=Designator=C208|UniqueId=\MAPJTQXW|Kind=1|AlternatePart= 
+Variation27=Designator=HL202|UniqueId=\LBDGWFZE|Kind=1|AlternatePart= 
+Variation28=Designator=C209|UniqueId=\OHASLXZQ|Kind=1|AlternatePart= 
+Variation29=Designator=C210|UniqueId=\VMIZSONV|Kind=1|AlternatePart= 
+Variation30=Designator=C211|UniqueId=\UYVNNNAD|Kind=1|AlternatePart= 
+Variation31=Designator=C212|UniqueId=\GOJKJANO|Kind=1|AlternatePart= 
+Variation32=Designator=R210|UniqueId=\GNANGIQC|Kind=1|AlternatePart= 
+Variation33=Designator=U204|UniqueId=\NDMFGWNZ|Kind=1|AlternatePart= 
+Variation34=Designator=CN202|UniqueId=\BGMVDPLZ|Kind=1|AlternatePart= 
+Variation35=Designator=R205|UniqueId=\XVRPIAPR|Kind=1|AlternatePart= 
+Variation36=Designator=R206|UniqueId=\HZEXGDMG|Kind=1|AlternatePart= 
+Variation37=Designator=R207|UniqueId=\GTNVCNAJ|Kind=1|AlternatePart= 
+Variation38=Designator=R208|UniqueId=\JSIZCEMK|Kind=1|AlternatePart= 
+Variation39=Designator=U202|UniqueId=\QQDDUWHU|Kind=1|AlternatePart= 
+Variation40=Designator=C213|UniqueId=\LCRABIVT|Kind=1|AlternatePart= 
+Variation41=Designator=C214|UniqueId=\GFRXTMXD|Kind=1|AlternatePart= 
+Variation42=Designator=C215|UniqueId=\IJMRVEDG|Kind=1|AlternatePart= 
+Variation43=Designator=C216|UniqueId=\WKUAWIDO|Kind=1|AlternatePart= 
+Variation44=Designator=FTG1|UniqueId=\HMYBBZQH|Kind=1|AlternatePart= 
+Variation45=Designator=FTG2|UniqueId=\LVUMGYLM|Kind=1|AlternatePart= 
+Variation46=Designator=FTG3|UniqueId=\PKKQHSNC|Kind=1|AlternatePart= 
+Variation47=Designator=FTG4|UniqueId=\AAMEJKPW|Kind=1|AlternatePart= 
+Variation48=Designator=MH1|UniqueId=\SASBVLNK|Kind=1|AlternatePart= 
+Variation49=Designator=MH2|UniqueId=\GEMHVOOS|Kind=1|AlternatePart= 
+Variation50=Designator=MH3|UniqueId=\JRSAWOCC|Kind=1|AlternatePart= 
+Variation51=Designator=MH4|UniqueId=\QIEIMTME|Kind=1|AlternatePart= 
+Variation52=Designator=MH5|UniqueId=\JHPJGBPL|Kind=1|AlternatePart= 
+Variation53=Designator=MH6|UniqueId=\NRDNJJCH|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=72110F5A-D2B8-4657-A501-8E5479D98328
+Description=pcb-ldc-hw-2t
+AllowFabrication=1
+ParameterCount=0
+VariationCount=14
+Variation1=Designator=FTG1|UniqueId=\HMYBBZQH|Kind=1|AlternatePart= 
+Variation2=Designator=FTG2|UniqueId=\LVUMGYLM|Kind=1|AlternatePart= 
+Variation3=Designator=FTG3|UniqueId=\PKKQHSNC|Kind=1|AlternatePart= 
+Variation4=Designator=FTG4|UniqueId=\AAMEJKPW|Kind=1|AlternatePart= 
+Variation5=Designator=MH1|UniqueId=\SASBVLNK|Kind=1|AlternatePart= 
+Variation6=Designator=MH2|UniqueId=\GEMHVOOS|Kind=1|AlternatePart= 
+Variation7=Designator=MH3|UniqueId=\JRSAWOCC|Kind=1|AlternatePart= 
+Variation8=Designator=MH4|UniqueId=\QIEIMTME|Kind=1|AlternatePart= 
+Variation9=Designator=MH5|UniqueId=\JHPJGBPL|Kind=1|AlternatePart= 
+Variation10=Designator=MH6|UniqueId=\NRDNJJCH|Kind=1|AlternatePart= 
+Variation11=Designator=C213|UniqueId=\LCRABIVT|Kind=1|AlternatePart= 
+Variation12=Designator=C214|UniqueId=\GFRXTMXD|Kind=1|AlternatePart= 
+Variation13=Designator=C215|UniqueId=\IJMRVEDG|Kind=1|AlternatePart= 
+Variation14=Designator=C216|UniqueId=\WKUAWIDO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=bom-ldc-hw.xlsx
+DocumentPath=Project Outputs for ldc-hw\bom-ldc-hw-1t.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ldc-hw\Design Rule Check - pcb-ldc-hw.html
+DocumentPath=Project Outputs for ldc-hw\bom-ldc-hw-2t.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ldc-hw\Fabrication Testpoint Report for pcb-ldc-hw.ipc
+DocumentPath=bom-ldc-hw.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.DRR
+DocumentPath=Project Outputs for ldc-hw\Design Rule Check - pcb-ldc-hw.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.EXTREP
+DocumentPath=Project Outputs for ldc-hw\Fabrication Testpoint Report for pcb-ldc-hw.ipc
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBL
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBO
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBP
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBS
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM1
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM8
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM13
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM14
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM15
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM29
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GPB
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GPT
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTL
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTO
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTP
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTS
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.LDP
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.REP
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.RUL
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for ldc-hw\pcb-ldc-hw.TXT
 DItemRevisionGUID=
 
@@ -457,7 +548,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Imas
+TargetPrinter=HP00E8BE (HP DeskJet 2600 series) (2 redirecionada)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -666,15 +757,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD21\Templates\BOM CNPEM ELT.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1708|FormHeight=781|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD21\Templates\altium-bom-template-ENT-AIS-SEI-v2022.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1232|FormHeight=757|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up
+Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Código LNLS=100|Comment=120|Description=120|Designator=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=120|Supplier 1=100|Supplier Part Number 1=100|Supplier Subtotal 1=100|Supplier Unit Price 1=100
+Configuration1_Item6=Código LNLS=100|Designator=211|Description=100|Manufacturer Part Number=100|Manufacturer=100|Quantity=100|Case/Package=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Código LNLS=100|Comment=120|Description=120|Designator=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=120|Supplier 1=100|Supplier Part Number 1=100|Supplier Subtotal 1=100|Supplier Unit Price 1=100
+Configuration1_Item7=Código LNLS=100|Designator=211|Description=100|Manufacturer Part Number=100|Manufacturer=100|Quantity=100|Case/Package=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
