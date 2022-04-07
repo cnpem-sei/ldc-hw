@@ -37,3 +37,4 @@ pcb/*.pdf
 *.xlsx
 *.OutJob
 *Previews*
+*.lck
