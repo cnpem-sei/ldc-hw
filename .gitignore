@@ -11,6 +11,9 @@ Project\ Logs*/
 # Project Outputs
 Project\ Outputs*/
 
+# OldVersions
+**/OldVersions/*
+
 # Auto-conversion notices
 *.PcbDoc.htm
 
@@ -30,7 +33,7 @@ Project\ Outputs*/
 *.htm
 *.$$$
 *.Cam
-*.pdf
+pcb/*.pdf
 *.xlsx
 *.OutJob
 *Previews*
